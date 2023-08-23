@@ -34,4 +34,4 @@ This CSV file contains individual-level data for the months of April to June. It
 
 ## Contact Information
 
-If you have any questions, or need further assistance in replicating the results, please feel free to contact the author of the thesis, Amy Feakes, at [amy.feakes222@imperial.ac.uk].
+If you have any questions, or need further assistance in replicating the results, please feel free to contact the author of the thesis, Amy Feakes, at amy.feakes222@imperial.ac.uk.
